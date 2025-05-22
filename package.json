@@ -1,4 +1,14 @@
 {
+  "name": "capstonebackend",
+  "version": "1.0.0",
+  "description": "traveltroveGROUP14",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bojja Sathwika",
+  "license": "ISC",
   "dependencies": {
     "bcryptjs": "^3.0.2",
     "body-parser": "^1.20.3",
